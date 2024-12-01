@@ -1,4 +1,5 @@
 {
+  "homepage": "https://codebyvignesh14.github.io/project-v",
   "name": "project-v",
   "version": "0.1.0",
   "private": false,
@@ -15,7 +16,6 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://codebyvignesh14.github.io/project-v",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
