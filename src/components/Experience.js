@@ -26,7 +26,7 @@ const Experience = () => {
   ];
 
   return (
-    <section className="experience">
+    <section className="experience" id="experience">
       <h2>Work Experience</h2>
       {experiences.map((exp, index) => (
         <motion.div
